@@ -24,6 +24,7 @@ int main() {
         sum = sum + arr[j];  // add values of the array one by one
     }
     
+    cout << "Sum of Entered Numbers: " << sum << endl;
 
     return 0;
 }
