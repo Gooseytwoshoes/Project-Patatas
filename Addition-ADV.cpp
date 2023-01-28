@@ -21,7 +21,8 @@ int main() {
     }
 
     for (j = 0; j < max; j++){
-        sum = sum + arr[j];  // add values of the array one by one
+        sum = sum + arr[j];  
+        // add values of the array one by one
     }
     
     cout << "Sum of Entered Numbers: " << sum << endl;
