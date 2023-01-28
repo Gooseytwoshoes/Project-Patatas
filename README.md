@@ -11,5 +11,10 @@ Rando projects related to school or something else, likely the ones bothering my
     
   **Addition with arrays**
   >Addition-ADV.cpp
-   - ask user how many number to add and add.
+   - ask user how many number to add and sums it all.
    - utilization of arrays to store value.
+   
+ **Vowel or Consonant**
+ >Vowel-or-Consonant.cpp
+  - ask user to enter a single char and tells if its a Vowel or Consonant
+  - utilization of if statement
