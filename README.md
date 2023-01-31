@@ -27,6 +27,6 @@ Rando projects related to school or something else, likely the ones bothering my
 ## == = HTML and CSS = ==
 
   **TEST WEBSITE**
-  >pillars.png
+  >collums.png
    - An html file of a website
    - Utilizatiuon of CSS and HTML
