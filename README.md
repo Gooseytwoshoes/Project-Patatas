@@ -28,5 +28,7 @@ Rando projects related to school or something else, likely the ones bothering my
 
   **TEST WEBSITE**
   >collums.png
+  >homepage.html
+  >style.css
    - An html file of a website
    - Utilizatiuon of CSS and HTML
