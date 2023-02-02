@@ -30,5 +30,5 @@ Rando projects related to school or something else, likely the ones bothering my
   >collums.png
   >homepage.html
   >style.css
-   - An html file of a website
+   - A minimalist website showing info about me
    - Utilizatiuon of CSS and HTML
