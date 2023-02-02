@@ -4,61 +4,25 @@
     font-family: Georgia;
 }
 
-#hero{
-    width: 100%;
-    height: 100vh;
-    background-image: url('collumns.png');
-    background-size: cover;
-    background-position: center;
-    position: relative;
-}
-
-.navbar{
-    width: 90%;
+.top{
+    font-family: 'Times New Roman', Times, serif;
     margin: auto;
     display: flex;
     align-items: center;
-    justify-content: space-between;
-    position: relative;
-    z-index: 10;
-}
-.navbar .logo{
-    width: 60px;
-    margin: 120px;
-    cursor: pointer;
 }
 
-.user{
-    display: flex;
-    align-items: center;
+.top .logo{
+    width: 90px;
+    margin: 10px 10px;
 }
 
-.user img{
-    width: 30px;
-    margin-left: 50px;
-    cursor: pointer;
-}
+.parallax{
+    background-image: url(collumns.png);
+    min-height: 800px;
 
-.container{
-    width: 50%;
-    height: 100vh;
-    background: rgba(86, 86, 86, 0.3);
-    backdrop-filter: blur(10px);
-    position: absolute;
-    left: 0;
-    top: 0;
-}
-
-.info{
-    width: 550px;
-    color: white;
-    position: absolute;
-    right: 0;
-    top: 50%;
-    transform: translateY(-50%);
-}
-
-.info h1{
-    font-size: 60px;
-    letter-spacing: 10px;
+    /*creates the paralax scrolling effect*/
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
