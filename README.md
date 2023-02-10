@@ -28,9 +28,9 @@ Rando projects related to school or something else, likely the ones bothering my
 
   **TEST WEBSITE**
   >collums.png
-  <br>
+  <br/>
   >homepage.html
-  /
+  \
   >style.css
    - A minimalist website showing info about me
    - Utilizatiuon of CSS and HTML
