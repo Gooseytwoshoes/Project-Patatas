@@ -22,7 +22,6 @@ Rando projects related to school or something else, likely the ones bothering my
   - ask user to enter a single char and tells if its a Vowel or Consonant
   - utilization of if statement
 
-/br
 
 ## == = HTML and CSS = ==
 
