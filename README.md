@@ -33,3 +33,9 @@ Rando projects related to school or something else, likely the ones bothering my
   >style.css
    - A minimalist website showing info about me
    - Utilizatiuon of CSS and HTML
+   
+   
+## == = JAVA = ==
+ > Grade.java
+ - Program that computes the average grade of the student to it's equivalent honor
+ - Utilization of if, else if, else in JAVA
