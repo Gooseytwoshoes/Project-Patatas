@@ -40,6 +40,10 @@ Rando projects related to school or something else, likely the ones bothering my
  - Program that computes the average grade of the student to it's equivalent honor
  - Utilization of if, else if, else in JAVA
 
+ > Student-database.java
+ - Program that stores informations of students in a database
+ - Utilization of arrays, Scanner, try and catch.
+
  > Vid_Analyzer.java
  - Open-source program that is passed as my final requirement in the course COMP103
  - Showcasing the capabilities of JAVA in:
