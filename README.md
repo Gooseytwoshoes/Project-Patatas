@@ -1,6 +1,6 @@
 # Patatas
 
-Rando projects related to school or something else, likely the ones bothering my dreams.
+Random projects related to school or something else, likely the ones bothering me while I sleep.
 
 ## == = C++ projects = ==
 
