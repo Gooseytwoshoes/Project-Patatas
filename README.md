@@ -44,12 +44,4 @@ Random projects related to school or something else, likely the ones bothering m
  - Program that stores informations of students in a database
  - Utilization of arrays, Scanner, try and catch.
 
- > Vid_Analyzer.java
- - Open-source program that is passed as my final requirement in the course COMP103
- - Showcasing the capabilities of JAVA in:
-   * (OOP capabilities of JAVA)
-   * Prompt user for input
-   * Editing arrays
-   * Use of try and catch
-   * Documentation of the program's algorithm
- - Made in collaboration with my classmates
+ > ???
