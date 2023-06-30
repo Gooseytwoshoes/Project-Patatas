@@ -44,4 +44,6 @@ Random projects related to school or something else, likely the ones bothering m
  - Program that stores informations of students in a database
  - Utilization of arrays, Scanner, try and catch.
 
- > ???
+ > CardValidator.java
+ - Program that uses Luhn's Algorithm using Java
+ - Utilization of Constructors and OOP properties of Java
